@@ -119,9 +119,9 @@ struct ColorGrb
 struct ColorGrbw
 {
 	uint8_t G;
-	uint8_t W;
-	uint8_t R;
 	uint8_t B;
+	uint8_t R;
+	uint8_t W;
 
 	ColorGrbw(uint8_t gray) :
 		R(gray), G(gray), B(gray), W(gray)
