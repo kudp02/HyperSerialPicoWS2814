@@ -42,7 +42,7 @@ You need HyperHDR v20 or newer. Make sure you have enabled `AWA protocol` and `E
 
 ![obraz](https://user-images.githubusercontent.com/69086569/236870662-12f67d14-c2ca-4ba1-b6a3-e34c27949d19.png)
 
-# Default pinout
+# Default pinout1
   
 **LED output (SK6812/WS281x):** GPIO2 for Data    
 **LED output (SPI LEDs):** GPIO3 for Data, GPIO2 for Clock  
